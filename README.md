@@ -19,7 +19,9 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 <img width="1377" height="97" alt="image" src="https://github.com/user-attachments/assets/79df07cb-e47a-44ec-8ee4-6243873c85a8" />
+
 # Line Chart
+
 <img width="1380" height="706" alt="image" src="https://github.com/user-attachments/assets/de9a9bcc-68f9-4be9-a450-3a954656739c" />
 # Scatter Plot
 <img width="1386" height="643" alt="image" src="https://github.com/user-attachments/assets/8835ee0b-0ad3-48c0-94d6-1e89357a6af2" />
